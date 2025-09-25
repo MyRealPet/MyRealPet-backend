@@ -1,0 +1,8 @@
+plugins {
+    id "org.springframework.boot"
+}
+apply plugin: 'war'
+
+dependencies {
+    implementation(project(":PetLifeCycleDto"))
+}
