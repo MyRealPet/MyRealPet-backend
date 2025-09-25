@@ -1,0 +1,3 @@
+petlifecycle:
+  api:
+    host: localhost:8081
